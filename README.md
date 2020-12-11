@@ -6,9 +6,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 User Side View
-![Image of user](../master/user.png)
+![User's Page](../main/assets/images/user.png)
 Government Side View
-![Image of govt](../master/govt.png)
+![Govt's Page](../main/assets/images/govt.png)
 
 # How to contribute
 Well you can contribute to this repository by many ways:
@@ -20,4 +20,4 @@ Well you can contribute to this repository by many ways:
 ---
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](../master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](../main/LICENSE) file for details
